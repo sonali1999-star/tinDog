@@ -141,7 +141,7 @@ padding-bottom: 3%;
 
 @media (max-width:1028px){
   #title{
-    text-align: center;
+    text-align:left;
   }
   .title-img{
     position: relative;
