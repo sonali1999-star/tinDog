@@ -65,7 +65,7 @@ p{
 
 /* features */
 #features {
-  padding: 7% 15%;
+  padding: 5% 15% ;
   background-color: #fff;
   position:relative;
   z-index: 1;
@@ -141,7 +141,7 @@ padding-bottom: 3%;
 
 @media (max-width:1028px){
   #title{
-    text-align:left;
+    text-align: left;
   }
   .title-img{
     position:static;
